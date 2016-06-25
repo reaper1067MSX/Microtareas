@@ -1,0 +1,4 @@
+﻿Al final de la página web realizada como ejemplo, añadir una cuadrícula responsive de 2 columnas * 3 filas. 
+
+Y llenarlas con fotos de personas en una columna y descripción en otra columna. 
+Como si fuese la descripción de un equipo de trabajo.
