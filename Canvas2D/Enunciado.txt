@@ -1,0 +1,12 @@
+
+Tarea: Canvas2D
+
+
+
+Crear 3 figuras:
+
+Con color de fondo amarillo transparente del 50%
+
+Con color de fondo verde claro con transparencia del 30%
+
+Con color de fondo anaranjado con 80% de transparencia
