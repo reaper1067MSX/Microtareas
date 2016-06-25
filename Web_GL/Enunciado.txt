@@ -1,0 +1,9 @@
+﻿
+Tarea 
+WebGL
+
+Del 
+siguiente enlace: http://threejs.org/examples/#webgl_geometry_dynamic 
+
+escoger la animación de su elección e implementarlo localmente, para ello deben previamente descargar 
+todo lo necesario para que su pagina web funcione correctamente.
