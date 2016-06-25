@@ -1,0 +1,7 @@
+
+Tarea:
+
+ Geolocalizacion
+
+
+Guiarse con el archivo "ejemplo_geolocation" para que aparezca la latitud y longitud de tu posicion
